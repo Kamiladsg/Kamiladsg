@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamiladsg
-- 👀 I’m interested in HTML5, CSS3, JavaScript, Python
-- 🌱 I’m currently learning HTML5 e CSS3
+- 👀 I’m interested in  Teste e Qualidade de Software.
+- 🌱 I’m currently  estudando  Programa de teste e Qualidade de Software.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Como chegar até mim kamiladsg@gmail.com
 
